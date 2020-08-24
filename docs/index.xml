@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sharmajikabeta@abhijeet2096.dev</title>
+    <link>https://abhijeet2096.dev/</link>
+    <description>Recent content on sharmajikabeta@abhijeet2096.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 23:59:43 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhijeet2096.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Incipiens</title>
+      <link>https://abhijeet2096.dev/posts/introduction/</link>
+      <pubDate>Sun, 23 Aug 2020 23:59:43 +0530</pubDate>
+      
+      <guid>https://abhijeet2096.dev/posts/introduction/</guid>
+      <description>&lt;p&gt;Hello amigos, long time no see ;) From past few months I was trying to put up a new blog, as I lost my old blog in a server crash (and No I hadn&amp;rsquo;t made any backup :/).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://abhijeet2096.dev/about/</link>
+      <pubDate>Sun, 23 Aug 2020 21:05:33 +0530</pubDate>
+      
+      <guid>https://abhijeet2096.dev/about/</guid>
+      <description>Hi! My name is Abhijeet Sharma, and I am a software engineer focusing on building and delivering innovative products. My interests include software design, distributed system and operating system. Currently I am working as a software engineer at Domino Data Lab. At domino, we are building enterprise data science platforms enabling data scientist do data science at ease ;) Before joining Domino, I completed my B.Tech in Computer Science &amp;amp; Engineering from Indian Insttitue of Technology, Mandi</description>
+    </item>
+    
+    <item>
+      <title>Savandurga, India</title>
+      <link>https://abhijeet2096.dev/photos/savandurga/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhijeet2096.dev/photos/savandurga/</guid>
+      <description>Savandurga Savandurga (Kannada: ಸಾವನದುರ್ಗ) is a hill 60 km west of Bengaluru (Karnataka, India) off the Magadi road, in India. The hill is considered to be among the largest monolith hills in Asia. The hill rises to 1226 m above mean sea level and forms a part of the Deccan plateau. It consists of peninsular gneiss, granites, basic dykes and laterites. The Arkavathi river passes nearby through the Thippagondanahalli reservoir and on towards Manchanabele dam.</description>
+    </item>
+    
+    <item>
+      <title>skandhagiri, India</title>
+      <link>https://abhijeet2096.dev/photos/skandhagiri/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhijeet2096.dev/photos/skandhagiri/</guid>
+      <description>Skandhagiri,Skandagiri, also known as Kalavara Durga, is a mountain fortress located approximately 62 km from Bangalore city, and 3 km from Chikballapur in the Indian state of Karnataka. It is off Bellary Road (National Highway 7 Hyderabad-Bangalore Highway), and overlooks Nandi Hills and Muddenahalli. The peak is at an altitude of about 1450 meters. It is accessed from Kalavara village, which has population of 1093 according to 2011 census.</description>
+    </item>
+    
+    <item>
+      <title>Shikari Devi</title>
+      <link>https://abhijeet2096.dev/photos/shikari-devi/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhijeet2096.dev/photos/shikari-devi/</guid>
+      <description>Shikari Devi Shikari temple is situated at the top of the mountain and is an open temple dedicated to the Goddess of the Forests and hills. Its the most beautiful temple and area of Saraj and Karsog</description>
+    </item>
+    
+  </channel>
+</rss>
